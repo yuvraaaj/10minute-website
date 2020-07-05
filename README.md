@@ -1,4 +1,4 @@
-# 10minute-website \
+# 10minute-website 
 A single page Website speed-coded in &lt;10 Minutes. \
 
 **Libraries and Components implemented:** \
